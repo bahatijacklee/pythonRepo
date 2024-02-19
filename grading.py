@@ -16,5 +16,6 @@ elif average >= 40 and average <= 49:
   print("D")
 
 elif average >=0 and average <= 39:
-print("Fail")
+  print("Fail")
+
 
